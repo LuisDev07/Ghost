@@ -342,14 +342,15 @@ footer {
     justify-content: center;
     flex-direction: column;
     gap: 20px;
-    padding: 30px 0;
+    padding: 30px 20px;
 }
 
 
 .derechos,
 .info {
-    font-size: 12px;
+    font-size: 2rem;
     color: #c0c0c0;
+    text-align: center;
 }
 
 
